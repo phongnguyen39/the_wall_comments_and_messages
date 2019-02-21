@@ -1,0 +1,85 @@
+*{
+    /* outline: 1px dotted red; */
+}
+
+.top_row{
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+  
+}
+
+.top_row_right_box{
+    display: inline-block;
+    margin-left: 30em;
+    text-align: right;
+    color: rgba(0, 60, 255, 0.849);
+}
+
+
+#flash{
+    color: red;
+}
+
+tr, td{
+    display: block;
+    width: 70em;
+    /* box-shadow: 1px 1px 2px 2px darkgreen; */
+}
+
+.message_form{
+    /* box-shadow: 2px 2px lightgray; */
+    margin: 3em 0em 3em 0em;
+}
+
+.blue_button{
+    background-color: rgba(0, 60, 255, 0.849);
+    color: white;
+}
+
+
+.message_box{
+    /* box-shadow: .5px .5px 2px 2px darkgreen; */
+    font-weight: bold;
+    color: rgba(0, 60, 255, 0.849);
+    width: 100%;
+    margin: 1em 0em 1em 0em;
+}
+
+.comment{
+    background: rgb(10, 168, 10);
+    color: white;
+    border: none;
+    box-shadow: 2px 2px gray; 
+}
+
+.comments_box{
+    padding: 1em 0em 1em 2em;
+    background-color: rgb(250, 250, 250);
+    width: 100%;
+    /* box-shadow: .5px .5px 2px 2px darkgreen; */
+    font-style: italic;
+}
+
+
+input{
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1{
+    color: red;
+    display: inline-block;
+}
+
+h2{
+    color: rgba(0, 60, 255, 0.849);
+
+    display: inline-block;
+}
+
+h3{
+    color: goldenrod;
+    display: inline-block;
+}
+
